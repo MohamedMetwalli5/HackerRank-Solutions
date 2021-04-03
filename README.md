@@ -86,7 +86,7 @@ _If you like this project, please leave me a star._ &#9733;
 [Find the Median](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/ProblemSolving/src/solution/FindtheMedian.java) ||Easy|
 [Palindrome Index](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving/src/solution/PalindromeIndex.java) ||Easy|
 [Anagram](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/Anagram.java) ||Easy|
-[Making Anagrams](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving/src/solution/Making Anagrams.java) ||Easy|
+[Making Anagrams](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving/src/solution/MakingAnagrams.java) ||Easy|
 [Game of Thrones - I](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/ProblemSolving/src/solution/GameOfThronesI.java) ||Easy|
 [Two Strings](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving/src/solution/TwoStrings.java) ||Easy|
 [Ice Cream Parlor](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving/src/solution/IceCreamParlor.java) ||Easy|
