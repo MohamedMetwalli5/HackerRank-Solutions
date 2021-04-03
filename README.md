@@ -105,7 +105,7 @@ Solutions of some problems from HackerRank
 [Smart Number](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
 <br>
 
-# Python
+# Python 🐍
 |      Title     |   Solutions   | Video  | Difficulty  |                  
 |----------------|---------------|--------|-------------|
 [Write a function](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/PythonSolutions/Lists.py) ||Medium|
