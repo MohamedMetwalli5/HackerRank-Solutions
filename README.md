@@ -112,7 +112,7 @@ _If you like this project, please leave me a star._ &#9733;
 # Python 🐍
 |      Title     |   Solutions   | Video  | Difficulty  |                  
 |----------------|---------------|--------|-------------|
-[Write a function](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/PythonSolutions/Writeafunction.py) ||Medium|
+[Write a function](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/PythonSolutions/WriteAFunction.py) ||Medium|
 [The Minion Game](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/PythonSolutions/TheMinionGame.py) ||Medium|
 [Find Angle MBC](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/PythonSolutions/FindAngleMBC.py) ||Medium|
 [No Idea!](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/PythonSolutions/NoIdea.py) ||Medium|
