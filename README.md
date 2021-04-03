@@ -188,7 +188,7 @@ _If you like this project, please leave me a star._ &#9733;
 |      Title     |   Solutions   | Video  | Difficulty  |                  
 |----------------|---------------|--------|-------------|
 [Welcome to Java!](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/WelcomeToJava.java) ||Easy|
-[Java Stdin and Stdout I](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving/src/solution/JavaStdin AndStdoutI.java) ||Easy|
+[Java Stdin and Stdout I](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving/src/solution/JavaStdinAndStdoutI.java) ||Easy|
 [Java If-Else](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/ProblemSolving/src/solution/JavaIfElse.java) ||Easy|
 [Java Stdin and Stdout II](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving/src/solution/JavaStdinAndStdoutII.java) ||Easy|
 [Java Loops I](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving/src/solution/JavaLoopsI.java) ||Easy|
