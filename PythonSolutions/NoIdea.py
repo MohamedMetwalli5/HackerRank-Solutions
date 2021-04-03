@@ -1,0 +1,6 @@
+n,m = (map(int,input().split()))
+l = list(map(int,input().split()))
+a = set(map(int,input().split()))
+b = set(map(int,input().split()))
+counter = sum([(i in a) - (i in b) for i in l])
+print(counter)
