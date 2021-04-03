@@ -14,7 +14,7 @@ class MyBook extends Book{
         }
  }
     
-public class Main{
+public class JavaAbstractClass{
 	
 	public static void main(String []args){
 		//Book new_novel=new Book(); This line prHMain.java:25: error: Book is abstract; cannot be instantiated
