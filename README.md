@@ -116,8 +116,8 @@ _If you like this project, please leave me a star._ &#9733;
 [The Minion Game](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/PythonSolutions/TheMinionGame.py) ||Medium|
 [Find Angle MBC](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/PythonSolutions/FindAngleMBC.py) ||Medium|
 [No Idea!](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/PythonSolutions/NoIdea.py) ||Medium|
-[Say "Hello, World!" With Python](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/SayHelloWorldWithPython.py) ||Easy|
-[Python If-Else](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving/PythonIfElse.py) ||Easy|
+[Say "Hello, World!" With Python](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/PythonSolutions/SayHelloWorldWithPython.py) ||Easy|
+[Python If-Else](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/PythonSolutions/PythonIfElse.py) ||Easy|
 [Arithmetic Operators](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/PythonSolutions/ArithmeticOperators.py) ||Easy|
 [Python: Division](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/PythonSolutions/PythonDivision.py) ||Easy|
 [Loops](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/PythonSolutions/Loops.py) ||Easy|
