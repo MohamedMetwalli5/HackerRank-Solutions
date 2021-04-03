@@ -1,4 +1,3 @@
-# [LeetCode](https://leetcode.com/problemset/algorithms/)
 ![Language](https://img.shields.io/badge/language-Java%20%2F%Python%20%2F%-blue.svg)
 <p align="center">
     <a href="https://www.hackerrank.com">
