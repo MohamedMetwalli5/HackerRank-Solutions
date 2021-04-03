@@ -93,7 +93,7 @@ Solutions of some problems from HackerRank
 [Jim and the Orders](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
 [Permuting Two Arrays](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
 [Lonely Integer](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving/src/solution/Solution2.java) ||Easy|
-[Sum vs XOR](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Sum vs XOR](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
 [Flipping bits](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
 [XOR Strings](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
 [Smart Number](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
@@ -102,7 +102,7 @@ Solutions of some problems from HackerRank
 # Python
 |      Title     |   Solutions   | Video  | Difficulty  |                  
 |----------------|---------------|--------|-------------|
-[Write a function](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../master/PythonSolutions/Lists.py) ||Medium|
-[The Minion Game](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../master/PythonSolutions/Lists.py) ||Medium|
-[Find Angle MBC](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/PythonSolutions/Lists.py) ||Medium|
-[No Idea!](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../master/PythonSolutions/Lists.py) ||Medium|
+[Write a function](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/PythonSolutions/Lists.py) ||Medium|
+[The Minion Game](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/PythonSolutions/Lists.py) ||Medium|
+[Find Angle MBC](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/PythonSolutions/Lists.py) ||Medium|
+[No Idea!](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/PythonSolutions/Lists.py) ||Medium|
