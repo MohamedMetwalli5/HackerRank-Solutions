@@ -140,6 +140,44 @@ _If you like this project, please leave me a star._ &#9733;
 [Introduction to Sets](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/PythonSolutions/IntroductionToSets.py) ||Easy|
 [Calendar Module](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/PythonSolutions/CalendarModule.py) ||Easy|
 [Exceptions](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/PythonSolutions/Exceptions.py) ||Easy|
+[Collections.namedtuple()](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/PythonSolutions/CollectionsNamedTuple.py) ||Easy
+[Write a function](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/PythonSolutions/WriteAFunction.py) ||Medium|
+[The Minion Game](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/PythonSolutions/TheMinionGame.py) ||Medium|
+[Find Angle MBC](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/PythonSolutions/FindAngleMBC.py) ||Medium|
+[No Idea!](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/PythonSolutions/NoIdea.py) ||Medium|
+[Say "Hello, World!" With Python](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/sSayHelloWorldWithPython.py) ||Easy|
+[Python If-Else](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving/sPythonIfElse.py) ||Easy|
+[Arithmetic Operators](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/PythonSolutions/ArithmeticOperators.py) ||Easy|
+[Python: Division](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/PythonSolutions/PythonDivision.py) ||Easy|
+[Loops](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/PythonSolutions/Loops.py) ||Easy|
+[Print Function](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/PythonSolutions/PrintFunction.py) ||Easy|
+[Find the Runner-Up Score!](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/PythonSolutions/FindTheRunnerUpScore.py) ||Easy|
+[Finding the percentage](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/PythonSolutions/FindingThePercentage.py) ||Easy|
+[Lists](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/PythonSolutions/Lists.py) ||Easy|
+[Tuples](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/PythonSolutions/Tuples.py) ||Easy|
+[sWAP cASE](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/PythonSolutions/sWAPcASE.py) ||Easy|
+[String Split and Join](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/PythonSolutions/StringSplitandJoin.py) ||Easy|
+[What's Your Name?](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/PythonSolutions/WhatsYourName.py) ||Easy|
+[Mutations](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/PythonSolutions/Mutations.py) ||Easy|
+[Find a string](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/PythonSolutions/FindAString.py) ||Easy|
+[String Validators](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/PythonSolutions/StringValidators.py) ||Easy|
+[Text Wrap](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/PythonSolutions/TextWrap.py) ||Easy|
+[Capitalize!](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/PythonSolutions/Capitalize.py) ||Easy|
+[itertools.product()](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/PythonSolutions/ItertoolsProduct.py) ||Easy|
+[collections.Counter()](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/PythonSolutions/CollectionsCounter.py) ||Easy|
+[itertools.permutations()](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/PythonSolutions/ItertoolsPermutations.py) ||Easy|
+[Introduction to Sets](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/PythonSolutions/IntroductionToSets.py) ||Easy|
+[Calendar Module](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/PythonSolutions/CalendarModule.py) ||Easy|
+[Exceptions](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/PythonSolutions/Exceptions.py) ||Easy|
+[Collections.namedtuple()](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/PythonSolutions/CollectionsNamedTuple.py) ||Easy|
+[Collections.namedtuple()](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/PythonSolutions/CollectionsNamedTuple.py) ||Easy|
+[Collections.namedtuple()](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/PythonSolutions/CollectionsNamedTuple.py) ||Easy|
+[Collections.namedtuple()](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/PythonSolutions/CollectionsNamedTuple.py) ||Easy|
+[Collections.namedtuple()](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/PythonSolutions/CollectionsNamedTuple.py) ||Easy|
+[Collections.namedtuple()](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/PythonSolutions/CollectionsNamedTuple.py) ||Easy|
+[Collections.namedtuple()](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/PythonSolutions/CollectionsNamedTuple.py) ||Easy|
+[Collections.namedtuple()](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/PythonSolutions/CollectionsNamedTuple.py) ||Easy|
+[Collections.namedtuple()](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/PythonSolutions/CollectionsNamedTuple.py) ||Easy|
 [Collections.namedtuple()](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/PythonSolutions/CollectionsNamedTuple.py) ||Easy|
 
 <br>
