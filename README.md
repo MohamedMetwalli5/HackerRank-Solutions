@@ -97,3 +97,11 @@ Solutions of some problems from HackerRank
 [Flipping bits](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
 [XOR Strings](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
 [Smart Number](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
+
+# Python
+|      Title     |   Solutions   | Video  | Difficulty  |                  
+|----------------|---------------|--------|-------------|
+[Write a function](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Medium|
+[The Minion Game](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving/src/solution/Solution2.java) ||Medium|
+[Find Angle MBC](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/ProblemSolving/src/solution/Solution.java) ||Medium|
+[No Idea!](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Medium|
