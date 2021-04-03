@@ -4,8 +4,7 @@
     </a>
     <br>
 </p>
-
-# [HackerRank]
+# [LeetCode](https://leetcode.com/problemset/algorithms/)
 ![Language](https://img.shields.io/badge/language-Java%20%2F%Python%20%2F%-blue.svg)
 Solutions of some problems from HackerRank
 <br>
