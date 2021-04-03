@@ -6,7 +6,7 @@ class Rockstar{   }
 class Hacker{}
 
 
-public class InstanceOFTutorial{
+public class JavaInstanceOfKeyword{
 	
    static String count(ArrayList mylist){
       int a = 0,b = 0,c = 0;
@@ -23,7 +23,7 @@ public class InstanceOFTutorial{
       return ret;
    }
 
-   public static void JavaInstanceOfKeyword(String []args){
+   public static void main(String []args){
       ArrayList mylist = new ArrayList();
       Scanner sc = new Scanner(System.in);
       int t = sc.nextInt();
