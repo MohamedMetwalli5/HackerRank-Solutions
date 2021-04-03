@@ -10,7 +10,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-public class Solution {
+public class WelcomeToJava {
 
 	static class Reader {
 		static BufferedReader reader;
