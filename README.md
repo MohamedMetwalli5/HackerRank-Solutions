@@ -1,4 +1,4 @@
-![Language](https://img.shields.io/badge/language-Java%20%2F%Python%20%2F%-blue.svg)]
+[![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)]
 
 <p align="center">
     <a href="https://www.hackerrank.com">
