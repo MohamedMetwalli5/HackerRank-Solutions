@@ -179,4 +179,37 @@ Solutions of some problems from HackerRank
 [Group(), Groups() & Groupdict()](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
 [Validating phone numbers](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving/src/solution/Solution2.java) ||Easy|
 [Arrays](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/ProblemSolving/src/solution/Solution.java) ||Easy|
+<br>
 
+# Java
+|      Title     |   Solutions   | Video  | Difficulty  |                  
+|----------------|---------------|--------|-------------|
+[Welcome to Java!](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Java Stdin and Stdout I](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving/src/solution/Solution2.java) ||Easy|
+[Java If-Else](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Java Stdin and Stdout II](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Java Loops I](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Java Loops II](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Java Datatypes](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Java End-of-file](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Java Int to String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Java Date and Time](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving/src/solution/Solution2.java) ||Easy|
+[Java Strings Introduction](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Java Substring](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Java Substring Comparisons](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Java String Reverse](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Java Anagrams](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Java String Tokens](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Pattern Syntax Checker](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Java Primality Test](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving/src/solution/Solution2.java) ||Easy|
+[Java BigInteger](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Java 1D Array](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Java Subarray](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Java Inheritance I](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Java Inheritance II](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Java Abstract Class](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Java Method Overriding](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Java Method Overriding 2 (Super Keyword)](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving/src/solution/Solution2.java) ||Easy|
+[Java Instanceof keyword](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Java Iterator](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Java Varargs - Simple Additio](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
