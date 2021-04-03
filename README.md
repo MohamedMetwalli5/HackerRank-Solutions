@@ -1,5 +1,5 @@
 ![License](https://img.shields.io/badge/license-Apache_2.0-red.svg)
-![Language](https://img.shields.io/badge/language-Java%20%2F%20Python%20%2F%20-blue.svg)
+![Language](https://img.shields.io/badge/language-Java%20%2F%20Python%20%-blue.svg)
 
 <p align="center">
     <a href="https://www.hackerrank.com">
