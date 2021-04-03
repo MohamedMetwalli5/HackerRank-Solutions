@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)]
+![License](https://img.shields.io/badge/license-Apache_2.0-blue.svg)
 
 <p align="center">
     <a href="https://www.hackerrank.com">
