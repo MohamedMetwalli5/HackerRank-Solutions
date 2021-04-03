@@ -11,6 +11,12 @@ Solutions of some problems from HackerRank
 # Problem-Solving
 |      Title     |   Solutions   | Video  | Difficulty  |                  
 |----------------|---------------|--------|-------------|
+[Encryption](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
+[The Time in Words](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Sherlock and the Valid String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Sherlock and Anagrams](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Common Child](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Max Min](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
 [Simple Array Sum](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Easy|
 [Compare the Triplets](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving/src/solution/Solution2.java) ||Easy|
 [A Very Big Sum](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/ProblemSolving/src/solution/Solution.java) ||Easy|
