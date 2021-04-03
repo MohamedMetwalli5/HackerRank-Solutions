@@ -102,7 +102,7 @@ Solutions of some problems from HackerRank
 # Python
 |      Title     |   Solutions   | Video  | Difficulty  |                  
 |----------------|---------------|--------|-------------|
-[Write a function](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Medium|
-[The Minion Game](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving/src/solution/Solution2.java) ||Medium|
-[Find Angle MBC](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/ProblemSolving/src/solution/Solution.java) ||Medium|
-[No Idea!](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Medium|
+[Write a function](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../master/PythonSolutions/Lists.py) ||Medium|
+[The Minion Game](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../master/PythonSolutions/Lists.py) ||Medium|
+[Find Angle MBC](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/PythonSolutions/Lists.py) ||Medium|
+[No Idea!](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../master/PythonSolutions/Lists.py) ||Medium|
