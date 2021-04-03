@@ -8,7 +8,7 @@
 ## HackerRank
 Solutions of some problems from HackerRank
 
-# Problem-Solving
+# Problem-Solving 💻
 |      Title     |   Solutions   | Video  | Difficulty  |                  
 |----------------|---------------|--------|-------------|
 [Encryption](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Medium|
