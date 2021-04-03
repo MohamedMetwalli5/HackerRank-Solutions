@@ -212,7 +212,7 @@ _If you like this project, please leave me a star._ &#9733;
 [Java Inheritance II](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/ProblemSolving/src/solution/JavaInheritanceII.java) ||Easy|
 [Java Abstract Class](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving/src/solution/JavaAbstractClass.java) ||Easy|
 [Java Method Overriding](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/JavaMethodOverriding.java) ||Easy|
-[Java Method Overriding 2 (Super Keyword)](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving/src/solution/JavaMethodOverriding2(SuperKeyword).java) ||Easy|
+[Java Method Overriding 2 (Super Keyword)](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving/src/solution/JavaMethodOverriding2SuperKeyword.java) ||Easy|
 [Java Instanceof keyword](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/ProblemSolving/src/solution/JavaInstanceOfKeyword.java) ||Easy|
 [Java Iterator](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving/src/solution/JavaIterator.java) ||Easy|
 [Java Varargs - Simple Additio](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving/src/solution/JavaVarargsSimpleAdditio.java) ||Easy|
