@@ -139,9 +139,9 @@ _If you like this project, please leave me a star._ &#9733;
 [itertools.permutations()](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/PythonSolutions/) ||Easy|
 [Introduction to Sets](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/PythonSolutions/) ||Easy|
 [Calendar Module](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/PythonSolutions/) ||Easy|
-[Exceptions](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/PythonSolutions/a) ||Easy|
+[Exceptions](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/PythonSolutions/) ||Easy|
 [Collections.namedtuple()](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/PythonSolutions/) ||Easy|
-[Collections.OrderedDict()](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/PythonSolutions/src/solution/Solution2.java) ||Easy|
+[Collections.OrderedDict()](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/PythonSolutions/) ||Easy|
 [Symmetric Difference](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/PythonSolutions/) ||Easy|
 [itertools.combinations()](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/PythonSolutions/) ||Easy|
 [Incorrect Regex](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/PythonSolutions/) ||Easy|
@@ -149,7 +149,7 @@ _If you like this project, please leave me a star._ &#9733;
 [itertools.combinations_with_replacement()](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/PythonSolutions/) ||Easy|
 [Set .discard(), .remove() & .pop()](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/PythonSolutions/) ||Easy|
 [Collections.deque()](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/PythonSolutions/) ||Easy|
-[Set .union() Operation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/PythonSolutions/src/solution/Solution2.java) ||Easy|
+[Set .union() Operation](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/PythonSolutions/) ||Easy|
 [Set .intersection() Operation](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/PythonSolutions/) ||Easy|
 [Power - Mod Power](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/PythonSolutions/) ||Easy|
 [Set .difference() Operation](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/PythonSolutions/) ||Easy|
@@ -179,9 +179,9 @@ _If you like this project, please leave me a star._ &#9733;
 [Any or All](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/PythonSolutions/) ||Easy|
 [Detect Floating Point Number](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/PythonSolutions/) ||Easy|
 [Map and Lambda Function](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/PythonSolutions/) ||Easy|
-[Re.split()](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/PythonSolutions/src/solution/Solution.java) ||Easy|
+[Re.split()](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/PythonSolutions/) ||Easy|
 [Validating phone numbers](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/PythonSolutions/) ||Easy|
-[Arrays](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/ProblemSolving/src/solution/Solution.java) ||Easy|
+[Arrays](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/PythonSolutions/) ||Easy|
 <br>
 
 # Java ☕
