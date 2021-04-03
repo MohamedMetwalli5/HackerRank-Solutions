@@ -5,10 +5,10 @@
     <br>
 </p>
 
-## Problem-Solving
+## HackerRank
 Solutions of some problems from HackerRank
 
-# HackerRank
+# Problem-Solving
 |  #  |      Title     |   Solutions   | Video  | Difficulty  |                  
 |-----|----------------|---------------|--------|-------------|
 |1807|[Reverse Integer](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/Solution.java) ||Medium|
