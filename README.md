@@ -7,6 +7,7 @@
 
 ## HackerRank
 Solutions of some problems from HackerRank
+_If you like this project, please leave me a star._ &#9733;
 
 # Problem-Solving 💻
 |      Title     |   Solutions   | Video  | Difficulty  |                  
