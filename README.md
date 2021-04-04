@@ -120,7 +120,7 @@ _If you like this project, please leave me a star._ &#9733;
 [Loops](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/PythonSolutions/Loops.py) ||Easy|
 [Print Function](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/PythonSolutions/PrintFunction.py) ||Easy|
 [Find the Runner-Up Score!](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/PythonSolutions/FindTheRunnerUpScore.py) ||Easy|
-[Finding the percentage](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/PythonSolutions/FindIngthePercentage.py) ||Easy|
+[Finding the percentage](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/PythonSolutions/FindingThePercentage.py) ||Easy|
 [Lists](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/PythonSolutions/Lists.py) ||Easy|
 [Tuples](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/PythonSolutions/Tuples.py) ||Easy|
 [sWAP cASE](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/PythonSolutions/sWAPcASE.py) ||Easy|
