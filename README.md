@@ -78,32 +78,31 @@ _If you like this project, please leave me a star._ &#9733;
 [Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)|[Solution](../main/ProblemSolving%20(General)/Pangrams.java) ||Easy|
 [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string)|[Solution](../main/ProblemSolving%20(General)/WeightedUniformStrings.java) ||Easy|
 [Funny String](https://www.hackerrank.com/challenges/funny-string/problem)|[Solution](../main/ProblemSolving%20(General)/FunnyString.java) ||Easy|
-[Gemstones](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving%20(General)/Gemstones.java) ||Easy|
-[Beautiful Binary String](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving%20(General)/BeautifulBinaryString.java) ||Easy|
+[Gemstones](https://www.hackerrank.com/challenges/gem-stones)|[Solution](../main/ProblemSolving%20(General)/Gemstones.java) ||Easy|
+[Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string)|[Solution](../main/ProblemSolving%20(General)/BeautifulBinaryString.java) ||Easy|
 [Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem)|[Solution](../main/ProblemSolving%20(General)/ClosestNumbers.java) ||Easy|
-[Find the Median](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/ProblemSolving%20(General)/FindtheMedian.java) ||Easy|
-[Palindrome Index](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving%20(General)/PalindromeIndex.java) ||Easy|
-[Making Anagrams](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving%20(General)/MakingAnagrams.java) ||Easy|
-[Game of Thrones - I](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/GameOfThronesI.java) ||Easy|
-[Two Strings](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving%20(General)/TwoStrings.java) ||Easy|
-[Ice Cream Parlor](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving%20(General)/IceCreamParlor.java) ||Easy|
-[Missing Numbers](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/MissingNumbers.java) ||Easy|
-[Sherlock and Array](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/ProblemSolving%20(General)/SherlockAndArray.java) ||Easy|
+[Find the Median](https://www.hackerrank.com/challenges/find-the-median)|[Solution](../main/ProblemSolving%20(General)/FindtheMedian.java) ||Easy|
+[Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index)|[Solution](../main/ProblemSolving%20(General)/PalindromeIndex.java) ||Easy|
+[Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams)|[Solution](../main/ProblemSolving%20(General)/MakingAnagrams.java) ||Easy|
+[Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones/problem)|[Solution](../main/ProblemSolving%20(General)/GameOfThronesI.java) ||Easy|
+[Two Strings](https://www.hackerrank.com/challenges/two-strings/problem)|[Solution](../main/ProblemSolving%20(General)/TwoStrings.java) ||Easy|
+[Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)|[Solution](../main/ProblemSolving%20(General)/IceCreamParlor.java) ||Easy|
+[Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem)|[Solution](../main/ProblemSolving%20(General)/MissingNumbers.java) ||Easy|
+[Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem)|[Solution](../main/ProblemSolving%20(General)/SherlockAndArray.java) ||Easy|
 [Minimum Absolute Difference in an Array](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving%20(General)/MinimumAbsoluteDifferenceInAnArray.java) ||Easy|
-[Marc's Cakewalk](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/MarcsCakewalk.java) ||Easy|
-[Grid Challenge](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving%20(General)/GridChallenge.java) ||Easy|
-[Luck Balance](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/LuckBalance.java) ||Easy|
-[Maximum Perimeter Triangle](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving%20(General)/MaximumPerimeterTriangle.java) ||Easy|
-[Beautiful Pairs](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving%20(General)/BeautifulPairs.java) ||Easy|
-[Priyanka and Toys](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/PriyankaAndToys.java) ||Easy|
-[Mark and Toys](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/ProblemSolving%20(General)/MarkAndToys.java) ||Easy|
-[Jim and the Orders](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving%20(General)/JimAndTheOrders.java) ||Easy|
-[Permuting Two Arrays](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/PermutingTwoArrays.java) ||Easy|
-[Lonely Integer](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving%20(General)/LonelyInteger.java) ||Easy|
-[Sum vs XOR](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/SumVsXOR.java) ||Easy|
-[Flipping bits](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving%20(General)/FlippingBits.java) ||Easy|
-[XOR Strings](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving%20(General)/XORStrings.java) ||Easy|
-[Smart Number](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/SmartNumber.java) ||Easy|
+[Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk/problem)|[Solution](../main/ProblemSolving%20(General)/MarcsCakewalk.java) ||Easy|
+[Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge/problem)|[Solution](../main/ProblemSolving%20(General)/GridChallenge.java) ||Easy|
+[Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem)|[Solution](../main/ProblemSolving%20(General)/LuckBalance.java) ||Easy|
+[Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs/problem)|[Solution](../main/ProblemSolving%20(General)/BeautifulPairs.java) ||Easy|
+[Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys)|[Solution](../main/ProblemSolving%20(General)/PriyankaAndToys.java) ||Easy|
+[Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem)|[Solution](../main/ProblemSolving%20(General)/MarkAndToys.java) ||Easy|
+[Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders)|[Solution](../main/ProblemSolving%20(General)/JimAndTheOrders.java) ||Easy|
+[Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays/problem)|[Solution](../main/ProblemSolving%20(General)/PermutingTwoArrays.java) ||Easy|
+[Lonely Integer](https://www.hackerrank.com/challenges/lonely-integer/problem)|[Solution](../main/ProblemSolving%20(General)/LonelyInteger.java) ||Easy|
+[Sum vs XOR](https://www.hackerrank.com/challenges/sum-vs-xor/problem)|[Solution](../main/ProblemSolving%20(General)/SumVsXOR.java) ||Easy|
+[Flipping bits](https://www.hackerrank.com/challenges/flipping-bits)|[Solution](../main/ProblemSolving%20(General)/FlippingBits.java) ||Easy|
+[XOR Strings](https://www.hackerrank.com/challenges/strings-xor/problem)|[Solution](../main/ProblemSolving%20(General)/XORStrings.java) ||Easy|
+[Smart Number](https://www.hackerrank.com/challenges/smart-number/problem)|[Solution](../main/ProblemSolving%20(General)/SmartNumber.java) ||Easy|
 <br>
 
 # Python 🐍
