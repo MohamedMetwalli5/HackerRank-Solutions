@@ -89,7 +89,7 @@ _If you like this project, please leave me a star._ &#9733;
 [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor/problem)|[Solution](../main/ProblemSolving%20(General)/IceCreamParlor.java) ||Easy|
 [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers/problem)|[Solution](../main/ProblemSolving%20(General)/MissingNumbers.java) ||Easy|
 [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array/problem)|[Solution](../main/ProblemSolving%20(General)/SherlockAndArray.java) ||Easy|
-[Minimum Absolute Difference in an Array](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving%20(General)/MinimumAbsoluteDifferenceInAnArray.java) ||Easy|
+[Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem)|[Solution](../main/ProblemSolving%20(General)/MinimumAbsoluteDifferenceInAnArray.java) ||Easy|
 [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk/problem)|[Solution](../main/ProblemSolving%20(General)/MarcsCakewalk.java) ||Easy|
 [Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge/problem)|[Solution](../main/ProblemSolving%20(General)/GridChallenge.java) ||Easy|
 [Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem)|[Solution](../main/ProblemSolving%20(General)/LuckBalance.java) ||Easy|
@@ -108,10 +108,10 @@ _If you like this project, please leave me a star._ &#9733;
 # Python 🐍
 |      Title     |   Solutions   | Video  | Difficulty  |                  
 |----------------|---------------|--------|-------------|
-[Write a function](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/PythonSolutions/WriteAFunction.py) ||Medium|
-[The Minion Game](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/PythonSolutions/TheMinionGame.py) ||Medium|
-[Find Angle MBC](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/PythonSolutions/FindAngleMBC.py) ||Medium|
-[No Idea!](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/PythonSolutions/NoIdea.py) ||Medium|
+[Write a function](https://www.hackerrank.com/challenges/write-a-function/problem)|[Solution](../main/PythonSolutions/WriteAFunction.py) ||Medium|
+[The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem)|[Solution](../main/PythonSolutions/TheMinionGame.py) ||Medium|
+[Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem)|[Solution](../main/PythonSolutions/FindAngleMBC.py) ||Medium|
+[No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)|[Solution](../main/PythonSolutions/NoIdea.py) ||Medium|
 [Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem)|[Solution](../main/PythonSolutions/SayHelloWorldWithPython.py) ||Easy|
 [Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)|[Solution](../main/PythonSolutions/PythonIfElse.py) ||Easy|
 [Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)|[Solution](../main/PythonSolutions/ArithmeticOperators.py) ||Easy|
@@ -161,7 +161,7 @@ _If you like this project, please leave me a star._ &#9733;
 [Zeros and Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem)|[Solution](../main/PythonSolutions/ZerosAndOnes.py) ||Easy|
 [Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity/problem)|[Solution](../main/PythonSolutions/EyeAndIdentity.py) ||Easy|
 [Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics)|[Solution](../main/PythonSolutions/ArrayMathematics.py) ||Easy|
-[Floor, Ceil and Rint](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/PythonSolutions/FloorCeilAndRint.py) ||Easy|
+[Floor, Ceil and Rint](https://www.hackerrank.com/challenges/floor-ceil-and-rint/problem)|[Solution](../main/PythonSolutions/FloorCeilAndRint.py) ||Easy|
 [Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod/problem)|[Solution](../main/PythonSolutions/SumandProd.py) ||Easy|
 [Min and Max](https://www.hackerrank.com/challenges/np-min-and-max/problem)|[Solution](../main/PythonSolutions/MinandMax.py) ||Easy|
 [Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)|[Solution](../main/PythonSolutions/SetSymmetricDifferenceOperation.py) ||Easy|
