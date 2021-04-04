@@ -84,7 +84,6 @@ _If you like this project, please leave me a star._ &#9733;
 [Closest Numbers](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/ClosestNumbers.java) ||Easy|
 [Find the Median](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/ProblemSolving%20(General)/FindtheMedian.java) ||Easy|
 [Palindrome Index](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving%20(General)/PalindromeIndex.java) ||Easy|
-[Anagram](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/Anagram.java) ||Easy|
 [Making Anagrams](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving%20(General)/MakingAnagrams.java) ||Easy|
 [Game of Thrones - I](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/GameOfThronesI.java) ||Easy|
 [Two Strings](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving%20(General)/TwoStrings.java) ||Easy|
