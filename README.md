@@ -67,20 +67,20 @@ _If you like this project, please leave me a star._ &#9733;
 [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations/problem)|[Solution](../main/ProblemSolving%20(General)/FlatLandSpaceStations.java) ||Easy|
 [Fair Rations](https://www.hackerrank.com/challenges/fair-rations/problem)|[Solution](../main/ProblemSolving%20(General)/FairRations.java) ||Easy|
 [Cavity Map](https://www.hackerrank.com/challenges/cavity-map/problem)|[Solution](../main/ProblemSolving%20(General)/CavityMap.java) ||Easy|
-[Super Reduced String](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/ProblemSolving%20(General)/SuperReducedString.java) ||Easy|
-[Intro to Tutorial Challenges](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving%20(General)/IntroToTutorialChallenges.java) ||Easy|
-[CamelCase](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/CamelCase.java) ||Easy|
-[Strong Password](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/ProblemSolving/src/solution/StrongPassword.java) ||Easy|
-[Correctness and the Loop Invariant](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving%20(General)/CorrectnessAndTheLoopInvariant.java) ||Easy|
-[Caesar Cipher](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/CaesarCipher.java) ||Easy|
-[Mars Exploration](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/ProblemSolving%20(General)/MarsExploration.java) ||Easy|
-[HackerRank in a String!](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving%20(General)/HackerRankInAString.java) ||Easy|
-[Pangrams](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/Pangrams.java) ||Easy|
-[Weighted Uniform Strings](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving%20(General)/WeightedUniformStrings.java) ||Easy|
-[Funny String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/FunnyString.java) ||Easy|
+[Super Reduced String](https://www.hackerrank.com/challenges/reduced-string/problem)|[Solution](../main/ProblemSolving%20(General)/SuperReducedString.java) ||Easy|
+[Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro/problem)|[Solution](../main/ProblemSolving%20(General)/IntroToTutorialChallenges.java) ||Easy|
+[CamelCase](https://www.hackerrank.com/challenges/camelcase/problem)|[Solution](../main/ProblemSolving%20(General)/CamelCase.java) ||Easy|
+[Strong Password](https://www.hackerrank.com/challenges/strong-password/problem)|[Solution](../main/ProblemSolving/src/solution/StrongPassword.java) ||Easy|
+[Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant/problem)|[Solution](../main/ProblemSolving%20(General)/CorrectnessAndTheLoopInvariant.java) ||Easy|
+[Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1/problem)|[Solution](../main/ProblemSolving%20(General)/CaesarCipher.java) ||Easy|
+[Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration/problem)|[Solution](../main/ProblemSolving%20(General)/MarsExploration.java) ||Easy|
+[HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string)|[Solution](../main/ProblemSolving%20(General)/HackerRankInAString.java) ||Easy|
+[Pangrams](https://www.hackerrank.com/challenges/pangrams/problem)|[Solution](../main/ProblemSolving%20(General)/Pangrams.java) ||Easy|
+[Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string)|[Solution](../main/ProblemSolving%20(General)/WeightedUniformStrings.java) ||Easy|
+[Funny String](https://www.hackerrank.com/challenges/funny-string/problem)|[Solution](../main/ProblemSolving%20(General)/FunnyString.java) ||Easy|
 [Gemstones](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving%20(General)/Gemstones.java) ||Easy|
 [Beautiful Binary String](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving%20(General)/BeautifulBinaryString.java) ||Easy|
-[Closest Numbers](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/ClosestNumbers.java) ||Easy|
+[Closest Numbers](https://www.hackerrank.com/challenges/closest-numbers/problem)|[Solution](../main/ProblemSolving%20(General)/ClosestNumbers.java) ||Easy|
 [Find the Median](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/ProblemSolving%20(General)/FindtheMedian.java) ||Easy|
 [Palindrome Index](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving%20(General)/PalindromeIndex.java) ||Easy|
 [Making Anagrams](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving%20(General)/MakingAnagrams.java) ||Easy|
