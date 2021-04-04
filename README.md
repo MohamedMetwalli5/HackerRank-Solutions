@@ -15,13 +15,13 @@ _If you like this project, please leave me a star._ &#9733;
 # Problem-Solving 💻
 |      Title     |   Solutions   | Video  | Difficulty  |                  
 |----------------|---------------|--------|-------------|
-[Encryption](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/src/solution/Encryption.java) ||Medium|
-[The Time in Words](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/src/solution/TheTimeInWords.java) ||Medium|
-[Sherlock and the Valid String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/src/solution/SherlockAndTheValidString.java) ||Medium|
-[Sherlock and Anagrams](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/src/solution/SherlockAndAnagrams.java) ||Medium|
-[Common Child](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/src/solution/CommonChild.java) ||Medium|
-[Max Min](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/src/solution/MaxMin.java) ||Medium|
-[Simple Array Sum](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/SimpleArraySum.java) ||Easy|
+[Encryption](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/Encryption.java) ||Medium|
+[The Time in Words](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/TheTimeInWords.java) ||Medium|
+[Sherlock and the Valid String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/SherlockAndTheValidString.java) ||Medium|
+[Sherlock and Anagrams](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/SherlockAndAnagrams.java) ||Medium|
+[Common Child](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/CommonChild.java) ||Medium|
+[Max Min](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/MaxMin.java) ||Medium|
+[Simple Array Sum](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/SimpleArraySum.java) ||Easy|
 [Compare the Triplets](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving/src/solution/CompareTheTriplets.java) ||Easy|
 [A Very Big Sum](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/ProblemSolving/src/solution/AVeryBigSum.java) ||Easy|
 [Diagonal Difference](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving/src/solution/DiagonalDifference.java) ||Easy|
