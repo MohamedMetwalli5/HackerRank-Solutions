@@ -105,7 +105,7 @@ _If you like this project, please leave me a star._ &#9733;
 [Sum vs XOR](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/SumVsXOR.java) ||Easy|
 [Flipping bits](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving%20(General)/FlippingBits.java) ||Easy|
 [XOR Strings](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving%20(General)/XORStrings.java) ||Easy|
-[Smart Number](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/SmartNumbers.java) ||Easy|
+[Smart Number](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/SmartNumber.java) ||Easy|
 <br>
 
 # Python 🐍
