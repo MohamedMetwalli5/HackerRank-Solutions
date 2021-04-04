@@ -16,7 +16,7 @@ _If you like this project, please leave me a star._ &#9733;
 |      Title     |   Solutions   | Video  | Difficulty  |                  
 |----------------|---------------|--------|-------------|
 [Encryption](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/Encryption.java) ||Medium|
-[The Time in Words](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/TheTimeInWords.java) ||Medium|
+[The Time in Words](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/TimeInWords.java) ||Medium|
 [Sherlock and the Valid String](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/SherlockAndTheValidString.java) ||Medium|
 [Sherlock and Anagrams](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/SherlockAndAnagrams.java) ||Medium|
 [Common Child](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/CommonChild.java) ||Medium|
