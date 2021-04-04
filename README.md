@@ -22,7 +22,6 @@ _If you like this project, please leave me a star._ &#9733;
 [Sherlock and Anagrams](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/SherlockAndAnagrams.java) ||Medium|
 [Common Child](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/CommonChild.java) ||Medium|
 [Max Min](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/MaxMin.java) ||Medium|
-[Simple Array Sum](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/SimpleArraySum.java) ||Easy|
 [Compare the Triplets](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving%20(General)/CompareTheTriplets.java) ||Easy|
 [A Very Big Sum](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/AVeryBigSum.java) ||Easy|
 [Diagonal Difference](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving%20(General)/DiagonalDifference.java) ||Easy|
