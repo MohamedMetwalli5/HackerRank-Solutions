@@ -56,58 +56,56 @@ _If you like this project, please leave me a star._ &#9733;
 [Sequence Equation](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving%20(General)/SequenceEquation.java) ||Easy|
 [Find Digits](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/FindDigits.java) ||Easy|
 [Sherlock and Squares](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving%20(General)/SherlockAndSquares.java) ||Easy|
-[Cut the sticks](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/ProblemSolving/src/solution/CutTheSticks.java) ||Easy|
-[Jumping on the Clouds](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving/src/solution/JumpingOnTheClouds.java) ||Easy|
-[Equalize the Array](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving/src/solution/EqualizeTheArray.java) ||Easy|
-[ACM ICPC Team](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving/src/solution/ACMICPCTeam.java) ||Easy|
-[Modified Kaprekar Numbers](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/ProblemSolving/src/solution/ModifiedKaprekarNumbers.java) ||Easy|
-[Minimum Distances](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving/src/solution/MinimumDistances.java) ||Easy|
-[Halloween Sale](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/HalloweenSale.java) ||Easy|
-[Chocolate Feast](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving/src/solution/ChocolateFeast.java) ||Easy|
-[Service Lane](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/ProblemSolving/src/solution/ServiceLane.java) ||Easy|
-[Flatland Space Stations](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving/src/solution/FlatLandSpaceStations.java) ||Easy|
-[Fair Rations](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving/src/solution/FairRations.java) ||Easy|
-[Cavity Map](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving/src/solution/CavityMap.java) ||Easy|
-[Super Reduced String](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/ProblemSolving/src/solution/SuperReducedString.java) ||Easy|
-[Intro to Tutorial Challenges](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving/src/solution/IntroToTutorialChallenges.java) ||Easy|
-[CamelCase](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/CamelCase.java) ||Easy|
-[Insertion Sort - Part 1](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving/src/solution/InsertionSortPart1.java) ||Easy|
-[Strong Password](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/ProblemSolving/src/solution/StrongPassword.java) ||Easy|
-[Insertion Sort - Part 2](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving/src/solution/InsertionSortPart2.java) ||Easy|
-[Correctness and the Loop Invariant](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving/src/solution/CorrectnessAndTheLoopInvariant.java) ||Easy|
-[Caesar Cipher](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving/src/solution/CaesarCipher.java) ||Easy|
-[Mars Exploration](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/ProblemSolving/src/solution/MarsExploration.java) ||Easy|
-[HackerRank in a String!](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving/src/solution/HackerRankInAString.java) ||Easy|
-[Pangrams](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/Pangrams.java) ||Easy|
-[Weighted Uniform Strings](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving/src/solution/WeightedUniformStrings.java) ||Easy|
-[Funny String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/ProblemSolving/src/solution/FunnyString.java) ||Easy|
-[Gemstones](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving/src/solution/Gemstones.java) ||Easy|
-[Beautiful Binary String](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving/src/solution/BeautifulBinaryString.java) ||Easy|
-[Closest Numbers](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving/src/solution/ClosestNumbers.java) ||Easy|
-[Find the Median](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/ProblemSolving/src/solution/FindtheMedian.java) ||Easy|
-[Palindrome Index](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving/src/solution/PalindromeIndex.java) ||Easy|
-[Anagram](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/Anagram.java) ||Easy|
-[Making Anagrams](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving/src/solution/MakingAnagrams.java) ||Easy|
-[Game of Thrones - I](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/ProblemSolving/src/solution/GameOfThronesI.java) ||Easy|
-[Two Strings](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving/src/solution/TwoStrings.java) ||Easy|
-[Ice Cream Parlor](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving/src/solution/IceCreamParlor.java) ||Easy|
-[Missing Numbers](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving/src/solution/MissingNumbers.java) ||Easy|
-[Sherlock and Array](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/ProblemSolving/src/solution/SherlockAndArray.java) ||Easy|
-[Minimum Absolute Difference in an Array](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving/src/solution/MinimumAbsoluteDifferenceInAnArray.java) ||Easy|
-[Marc's Cakewalk](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/MarcsCakewalk.java) ||Easy|
-[Grid Challenge](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving/src/solution/GridChallenge.java) ||Easy|
-[Luck Balance](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/ProblemSolving/src/solution/LuckBalance.java) ||Easy|
-[Maximum Perimeter Triangle](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving/src/solution/MaximumPerimeterTriangle.java) ||Easy|
-[Beautiful Pairs](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving/src/solution/BeautifulPairs.java) ||Easy|
-[Priyanka and Toys](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving/src/solution/PriyankaAndToys.java) ||Easy|
-[Mark and Toys](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/ProblemSolving/src/solution/MarkAndToys.java) ||Easy|
-[Jim and the Orders](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving/src/solution/JimAndTheOrders.java) ||Easy|
-[Permuting Two Arrays](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving/src/solution/PermutingTwoArrays.java) ||Easy|
-[Lonely Integer](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving/src/solution/LonelyInteger.java) ||Easy|
-[Sum vs XOR](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/ProblemSolving/src/solution/SumVsXOR.java) ||Easy|
-[Flipping bits](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving/src/solution/FlippingBits.java) ||Easy|
-[XOR Strings](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving/src/solution/XORStrings.java) ||Easy|
-[Smart Number](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving/src/solution/SmartNumbers.java) ||Easy|
+[Cut the sticks](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../master/ProblemSolving%20(General)/CutTheSticks.java) ||Easy|
+[Jumping on the Clouds](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving%20(General)/JumpingOnTheClouds.java) ||Easy|
+[Equalize the Array](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving%20(General)/EqualizeTheArray.java) ||Easy|
+[ACM ICPC Team](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/ACMICPCTeam.java) ||Easy|
+[Modified Kaprekar Numbers](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/ProblemSolving%20(General)/ModifiedKaprekarNumbers.java) ||Easy|
+[Minimum Distances](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving%20(General)/MinimumDistances.java) ||Easy|
+[Halloween Sale](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/HalloweenSale.java) ||Easy|
+[Chocolate Feast](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving%20(General)/ChocolateFeast.java) ||Easy|
+[Service Lane](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/ServiceLane.java) ||Easy|
+[Flatland Space Stations](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving%20(General)/FlatLandSpaceStations.java) ||Easy|
+[Fair Rations](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving%20(General)/FairRations.java) ||Easy|
+[Cavity Map](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/CavityMap.java) ||Easy|
+[Super Reduced String](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/ProblemSolving%20(General)/SuperReducedString.java) ||Easy|
+[Intro to Tutorial Challenges](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving%20(General)/IntroToTutorialChallenges.java) ||Easy|
+[CamelCase](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/CamelCase.java) ||Easy|
+[Strong Password](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/ProblemSolving/src/solution/StrongPassword.java) ||Easy|
+[Correctness and the Loop Invariant](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving%20(General)/CorrectnessAndTheLoopInvariant.java) ||Easy|
+[Caesar Cipher](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/CaesarCipher.java) ||Easy|
+[Mars Exploration](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/ProblemSolving%20(General)/MarsExploration.java) ||Easy|
+[HackerRank in a String!](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving%20(General)/HackerRankInAString.java) ||Easy|
+[Pangrams](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/Pangrams.java) ||Easy|
+[Weighted Uniform Strings](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving%20(General)/WeightedUniformStrings.java) ||Easy|
+[Funny String](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/FunnyString.java) ||Easy|
+[Gemstones](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving%20(General)/Gemstones.java) ||Easy|
+[Beautiful Binary String](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving%20(General)/BeautifulBinaryString.java) ||Easy|
+[Closest Numbers](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/ClosestNumbers.java) ||Easy|
+[Find the Median](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/ProblemSolving%20(General)/FindtheMedian.java) ||Easy|
+[Palindrome Index](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving%20(General)/PalindromeIndex.java) ||Easy|
+[Anagram](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/Anagram.java) ||Easy|
+[Making Anagrams](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving%20(General)/MakingAnagrams.java) ||Easy|
+[Game of Thrones - I](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/GameOfThronesI.java) ||Easy|
+[Two Strings](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving%20(General)/TwoStrings.java) ||Easy|
+[Ice Cream Parlor](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving%20(General)/IceCreamParlor.java) ||Easy|
+[Missing Numbers](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/MissingNumbers.java) ||Easy|
+[Sherlock and Array](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/ProblemSolving%20(General)/SherlockAndArray.java) ||Easy|
+[Minimum Absolute Difference in an Array](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving%20(General)/MinimumAbsoluteDifferenceInAnArray.java) ||Easy|
+[Marc's Cakewalk](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/MarcsCakewalk.java) ||Easy|
+[Grid Challenge](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving%20(General)/GridChallenge.java) ||Easy|
+[Luck Balance](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/LuckBalance.java) ||Easy|
+[Maximum Perimeter Triangle](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving%20(General)/MaximumPerimeterTriangle.java) ||Easy|
+[Beautiful Pairs](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving%20(General)/BeautifulPairs.java) ||Easy|
+[Priyanka and Toys](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/PriyankaAndToys.java) ||Easy|
+[Mark and Toys](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/ProblemSolving%20(General)/MarkAndToys.java) ||Easy|
+[Jim and the Orders](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/ProblemSolving%20(General)/JimAndTheOrders.java) ||Easy|
+[Permuting Two Arrays](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/ProblemSolving%20(General)/PermutingTwoArrays.java) ||Easy|
+[Lonely Integer](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/ProblemSolving%20(General)/LonelyInteger.java) ||Easy|
+[Sum vs XOR](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/SumVsXOR.java) ||Easy|
+[Flipping bits](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/ProblemSolving%20(General)/FlippingBits.java) ||Easy|
+[XOR Strings](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/ProblemSolving%20(General)/XORStrings.java) ||Easy|
+[Smart Number](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/ProblemSolving%20(General)/SmartNumbers.java) ||Easy|
 <br>
 
 # Python 🐍
