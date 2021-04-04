@@ -160,25 +160,25 @@ _If you like this project, please leave me a star._ &#9733;
 [Transpose and Flatten](https://www.hackerrank.com/challenges/np-transpose-and-flatten)|[Solution](../main/PythonSolutions/TransposeAndFlatten.py) ||Easy|
 [Concatenate](https://www.hackerrank.com/challenges/np-concatenate)|[Solution](../main/PythonSolutions/Concatenate.py) ||Easy|
 [Zeros and Ones](https://www.hackerrank.com/challenges/np-zeros-and-ones/problem)|[Solution](../main/PythonSolutions/ZerosAndOnes.py) ||Easy|
-[Eye and Identity](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/PythonSolutions/EyeAndIdentity.py) ||Easy|
-[Array Mathematics](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/PythonSolutions/ArrayMathematics.py) ||Easy|
+[Eye and Identity](https://www.hackerrank.com/challenges/np-eye-and-identity/problem)|[Solution](../main/PythonSolutions/EyeAndIdentity.py) ||Easy|
+[Array Mathematics](https://www.hackerrank.com/challenges/np-array-mathematics)|[Solution](../main/PythonSolutions/ArrayMathematics.py) ||Easy|
 [Floor, Ceil and Rint](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/PythonSolutions/FloorCeilAndRint.py) ||Easy|
-[Sum and Prod](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/PythonSolutions/SumandProd.py) ||Easy|
-[Min and Max](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/PythonSolutions/MinandMax.py) ||Easy|
-[Set .symmetric_difference() Operation](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/PythonSolutions/SetSymmetricDifferenceOperation.py) ||Easy|
-[Set Mutations](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/PythonSolutions/SetMutations.py) ||Easy|
-[The Captain's Room](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/PythonSolutions/TheCaptainsRoom.py) ||Easy|
-[Check Subset](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/PythonSolutions/CheckSubset.py) ||Easy|
-[Check Strict Superset](https://leetcode.com/problems/evaluate-the-bracket-pairs-of-a-string/)|[Solution](../main/PythonSolutions/CheckStrictSuperset.py) ||Easy|
-[Zipped!](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/PythonSolutions/Zipped.py) ||Easy|
-[Input()](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/PythonSolutions/Input.py) ||Easy|
-[Python Evaluation](https://leetcode.com/problems/maximum-ascending-subarray-sum/)|[Solution](../main/PythonSolutions/PythonEvaluation.py) ||Easy|
-[Any or All](https://leetcode.com/problems/design-authentication-manager/)|[Solution](../main/PythonSolutions/AnyOrAll.py) ||Easy|
-[Detect Floating Point Number](https://leetcode.com/problems/second-largest-digit-in-a-string/)|[Solution](../main/PythonSolutions/DetectFloatingPointNumber.py) ||Easy|
-[Map and Lambda Function](https://leetcode.com/problems/maximum-average-pass-ratio/)|[Solution](../main/PythonSolutions/MapandLambdaFunction.py) ||Easy|
-[Re.split()](https://leetcode.com/problems/find-center-of-star-graph/)|[Solution](../main/PythonSolutions/ReSplit.py) ||Easy|
-[Validating phone numbers](https://leetcode.com/problems/minimum-number-of-operations-to-reinitialize-a-permutation/)|[Solution](../main/PythonSolutions/ValidatingPhoneNumbers.py) ||Easy|
-[Arrays](https://leetcode.com/problems/number-of-different-integers-in-a-string/)|[Solution](../main/PythonSolutions/Arrays.py) ||Easy|
+[Sum and Prod](https://www.hackerrank.com/challenges/np-sum-and-prod/problem)|[Solution](../main/PythonSolutions/SumandProd.py) ||Easy|
+[Min and Max](https://www.hackerrank.com/challenges/np-min-and-max/problem)|[Solution](../main/PythonSolutions/MinandMax.py) ||Easy|
+[Set .symmetric_difference() Operation](https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation/problem)|[Solution](../main/PythonSolutions/SetSymmetricDifferenceOperation.py) ||Easy|
+[Set Mutations](https://www.hackerrank.com/challenges/py-set-mutations/problem)|[Solution](../main/PythonSolutions/SetMutations.py) ||Easy|
+[The Captain's Room](https://www.hackerrank.com/challenges/py-the-captains-room/problem)|[Solution](../main/PythonSolutions/TheCaptainsRoom.py) ||Easy|
+[Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)|[Solution](../main/PythonSolutions/CheckSubset.py) ||Easy|
+[Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)|[Solution](../main/PythonSolutions/CheckStrictSuperset.py) ||Easy|
+[Zipped!](https://www.hackerrank.com/challenges/zipped)|[Solution](../main/PythonSolutions/Zipped.py) ||Easy|
+[Input()](https://www.hackerrank.com/challenges/input/problem)|[Solution](../main/PythonSolutions/Input.py) ||Easy|
+[Python Evaluation](https://www.hackerrank.com/challenges/python-eval)|[Solution](../main/PythonSolutions/PythonEvaluation.py) ||Easy|
+[Any or All](https://www.hackerrank.com/challenges/any-or-all/problem)|[Solution](../main/PythonSolutions/AnyOrAll.py) ||Easy|
+[Detect Floating Point Number](https://www.hackerrank.com/challenges/introduction-to-regex)|[Solution](../main/PythonSolutions/DetectFloatingPointNumber.py) ||Easy|
+[Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)|[Solution](../main/PythonSolutions/MapandLambdaFunction.py) ||Easy|
+[Re.split()](https://www.hackerrank.com/challenges/re-split/problem)|[Solution](../main/PythonSolutions/ReSplit.py) ||Easy|
+[Validating phone numbers](https://www.hackerrank.com/challenges/validating-the-phone-number/problem)|[Solution](../main/PythonSolutions/ValidatingPhoneNumbers.py) ||Easy|
+[Arrays](https://www.hackerrank.com/challenges/np-arrays/problem)|[Solution](../main/PythonSolutions/Arrays.py) ||Easy|
 <br>
 
 # Java ☕
