@@ -181,8 +181,8 @@ _If you like this project, please leave me a star._ &#9733;
 <br>
 
 # Java ☕
-|      Title     |   Solutions   | Video  | Difficulty  |                  
-|----------------|---------------|--------|-------------|
+|      Title     |   Solutions   | | Difficulty  |                  
+|----------------|---------------|-|-------------|
 [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem)|[Solution](../main/ProblemSolving/src/solution/WelcomeToJava.java) ||Easy|
 [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem)|[Solution](../main/ProblemSolving/src/solution/JavaStdinAndStdoutI.java) ||Easy|
 [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem)|[Solution](../main/ProblemSolving/src/solution/JavaIfElse.java) ||Easy|
