@@ -106,8 +106,8 @@ _If you like this project, please leave me a star._ &#9733;
 <br>
 
 # Python 🐍
-|      Title     |   Solutions   || Difficulty  |                  
-|----------------|---------------||-------------|
+|      Title     |   Solutions   | | Difficulty  |                  
+|----------------|---------------|-|-------------|
 [Write a function](https://www.hackerrank.com/challenges/write-a-function/problem)|[Solution](../main/PythonSolutions/WriteAFunction.py) ||Medium|
 [The Minion Game](https://www.hackerrank.com/challenges/the-minion-game/problem)|[Solution](../main/PythonSolutions/TheMinionGame.py) ||Medium|
 [Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem)|[Solution](../main/PythonSolutions/FindAngleMBC.py) ||Medium|
