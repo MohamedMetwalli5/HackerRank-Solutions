@@ -8,7 +8,7 @@
     <br>
 </p>
 
-## Solutions of some problems from HackerRank made specially for beginners and who are in the intermediate level 
+## Solutions of some problems from HackerRank made specifically for beginners and who are in the intermediate level 
 <br>
 
 _If you like this project, please leave me a star._ &#9733;
